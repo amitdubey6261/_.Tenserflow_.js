@@ -1,0 +1,20 @@
+{
+  "name": "flowery-thinkable-jasmine",
+  "version": "1.0.0",
+  "description": "Please note: This demo loads an easy to use JavaScript class made by the TensorFlow.js team to do the hard work for you so no machine learning knowledge is needed to use it.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://f34362fe-a171-4fe4-892c-60219bd22c8b@api.glitch.com/git/flowery-thinkable-jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
