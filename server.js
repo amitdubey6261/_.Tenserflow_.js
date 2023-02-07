@@ -10,5 +10,5 @@ app.listen(3000)
 let users = {}
 
 app.get('/',(req,res)=>{
-    res.sendFile('index.html')
+    res.sendFile(__dirname+'/index.html')
 })
